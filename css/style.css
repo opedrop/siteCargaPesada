@@ -42,6 +42,7 @@ body{
     padding-left: 20px;
     float: left;
     padding-top: 10px;
+    
 }
 
 .menu{
@@ -448,4 +449,17 @@ fieldset .grupo .campo{
     margin-left: 7.5%;
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+a{
+    color: #fff;
+}
+
+#unitins{
+    border: solid;
+    height: 50px;
+    width: 100px;
+    display: flex;
+    border-radius: 10px;
+
 }
